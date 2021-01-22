@@ -1,0 +1,21 @@
+title {
+  color: black;
+}
+    
+
+body {                             /* Cuerpo Texto */
+        text-align: justify;       /* Justificado */
+        color: black;              /* Color Negro */
+        font-weight: lighter;      /* Grosor Letra */
+}
+
+
+a {
+    color: #ff6363; /* Color Enlaces, incluye el enlace toc */
+}
+
+
+a:hover {  /* Color mouse sobre el enlace */
+        color: #585858;
+}
+
